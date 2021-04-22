@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "limits": "cpp",
+        "cctype": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "*.tcc": "cpp",
+        "unordered_set": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "string_view": "cpp"
+    }
+}
